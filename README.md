@@ -1,9 +1,12 @@
 # Chatbot
 Chat bot using Gen AI
- This is for training
- Anaconda
- gitbash
- vscode
+git add .
 
- 
- connect with conda terminal
+git commit -m "Updated"
+
+git push origin main
+
+
+conda create -n visa python=3.8 -y
+conda activate visa
+pip install -r requirements.txt
