@@ -4,3 +4,6 @@ Chat bot using Gen AI
  Anaconda
  gitbash
  vscode
+
+ 
+ connect with conda terminal
