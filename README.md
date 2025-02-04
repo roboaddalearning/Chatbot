@@ -7,9 +7,9 @@ git commit -m "Updated"
 git push origin main
 
 
-conda create -n visa python=3.8 -y 
+conda create -n chatbot python=3.11 -y 
 
-conda activate visa
+conda activate chatbot
 
 pip install -r requirements.txt
 
